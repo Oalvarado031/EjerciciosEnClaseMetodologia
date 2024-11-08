@@ -1,0 +1,11 @@
+C:\Users\labc201\source\repos\InterfazClaseViernes11Nov\InterfazClaseViernes11Nov\bin\Debug\InterfazClaseViernes11Nov.exe.config
+C:\Users\labc201\source\repos\InterfazClaseViernes11Nov\InterfazClaseViernes11Nov\bin\Debug\InterfazClaseViernes11Nov.exe
+C:\Users\labc201\source\repos\InterfazClaseViernes11Nov\InterfazClaseViernes11Nov\bin\Debug\InterfazClaseViernes11Nov.pdb
+C:\Users\labc201\source\repos\InterfazClaseViernes11Nov\InterfazClaseViernes11Nov\obj\Debug\InterfazClaseViernes11Nov.csproj.AssemblyReference.cache
+C:\Users\labc201\source\repos\InterfazClaseViernes11Nov\InterfazClaseViernes11Nov\obj\Debug\InterfazClaseViernes11Nov.csproj.SuggestedBindingRedirects.cache
+C:\Users\labc201\source\repos\InterfazClaseViernes11Nov\InterfazClaseViernes11Nov\obj\Debug\InterfazClaseViernes11Nov.Form1.resources
+C:\Users\labc201\source\repos\InterfazClaseViernes11Nov\InterfazClaseViernes11Nov\obj\Debug\InterfazClaseViernes11Nov.Properties.Resources.resources
+C:\Users\labc201\source\repos\InterfazClaseViernes11Nov\InterfazClaseViernes11Nov\obj\Debug\InterfazClaseViernes11Nov.csproj.GenerateResource.cache
+C:\Users\labc201\source\repos\InterfazClaseViernes11Nov\InterfazClaseViernes11Nov\obj\Debug\InterfazClaseViernes11Nov.csproj.CoreCompileInputs.cache
+C:\Users\labc201\source\repos\InterfazClaseViernes11Nov\InterfazClaseViernes11Nov\obj\Debug\InterfazClaseViernes11Nov.exe
+C:\Users\labc201\source\repos\InterfazClaseViernes11Nov\InterfazClaseViernes11Nov\obj\Debug\InterfazClaseViernes11Nov.pdb
